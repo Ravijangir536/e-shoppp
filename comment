@@ -1,0 +1,101 @@
+
+5:22:51
+npm install @prisma/client @auth/prisma-adapter next-auth
+
+npm install prisma --save-dev
+
+
+
+5:46:39
+npx prisma db push
+
+
+
+
+5:57:35
+Role 'USER' on replace "Wholeseller"
+make 2 role for Wholeseller and retailler
+
+6:18:45
+'model user' make duplicate for 'Wholeseller'
+
+
+
+
+6:19:25
+npx prisma db push
+
+this coomand use for connect to database
+
+
+6:35:23
+Google cloud console for email verification tutorial
+
+
+6:44:47
+npm i stripe 
+
+
+7:15:55
+stripe secret key added
+
+
+password stripe : Ra96vi49@#$%
+
+
+
+7:25:31
+npm install --save @stripe/react-stripe-js @stripe/stripe-js
+
+
+
+7:27:40
+stripe sk key added process clip
+
+
+7:54:00 
+stripe listen create 
+
+
+
+8:04:00
+stripe CLI install
+
+
+
+
+CheckoutForm.tsx
+in AddressElement we can change country and state on payment page
+
+
+
+8:31:40
+firabase linked for dynamic add products
+
+
+8:42:15
+npx prisma db push
+
+
+8:47:42
+mongodb, product added admin option enable
+
+
+AddProductForm in this we can change category for added items
+
+
+9:28:28
+npm install --save react-dropzone
+
+
+
+9:48:07
+image upload on firebase tutorial
+
+
+
+
+
+
+12:33:27
+on video stop
